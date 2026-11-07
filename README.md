@@ -169,8 +169,7 @@ also be scoped to the relevant protected resource.
 Discovered and reported by **4m3rr0r**.
 
 -   GitHub: https://github.com/4m3rr0r
--   Blog: https://4m3rr0r.me
-
+  
 All testing was performed in a private, reporter-controlled environment
 using test content.
 
